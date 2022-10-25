@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{8B8E9609-49B4-4D28-B873-143028619005}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BussinesLogic", "BussinesLogic\BussinesLogic.csproj", "{6691C4A0-08C3-43C7-A357-3FB273C10D3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{2EA74E8A-ECB6-4FA2-8CE3-2ED40244AE39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B8E9609-49B4-4D28-B873-143028619005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B8E9609-49B4-4D28-B873-143028619005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B8E9609-49B4-4D28-B873-143028619005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B8E9609-49B4-4D28-B873-143028619005}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6691C4A0-08C3-43C7-A357-3FB273C10D3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6691C4A0-08C3-43C7-A357-3FB273C10D3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6691C4A0-08C3-43C7-A357-3FB273C10D3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6691C4A0-08C3-43C7-A357-3FB273C10D3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EA74E8A-ECB6-4FA2-8CE3-2ED40244AE39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA74E8A-ECB6-4FA2-8CE3-2ED40244AE39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA74E8A-ECB6-4FA2-8CE3-2ED40244AE39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA74E8A-ECB6-4FA2-8CE3-2ED40244AE39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
